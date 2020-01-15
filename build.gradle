@@ -16,9 +16,9 @@ dependencies {
     
     providedRuntime('org.springframework.boot:spring-boot-starter-tomcat:2.0.3.RELEASE')
     
-    compile project(':msa-service-coffee-order')
-    compile project(':msa-service-coffee-member')
-    compile project(':msa-service-coffee-status')
+    compile project(' :msa-service-coffee-order')
+    compile project(' :msa-service-coffee-member')
+    compile project(' :msa-service-coffee-status')
 }
 
 buildscript {
